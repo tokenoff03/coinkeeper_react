@@ -33,3 +33,21 @@ Used localStorage.
 <p align="center">
  <img width="600" src="public/assets/main.png" alt="welcome"/>
 </p>
+
+### Edit
+
+<p align="center">
+ <img width="600" src="public/assets/changeicon.png" alt="welcome"/>
+</p>
+
+### How works inputs: 
+<p align="center">
+ <img width="600" src="public/assets/doing.png" alt="welcome"/>
+</p>
+
+
+### History:  
+<p align="center">
+ <img width="600" src="public/assets/history.png" alt="welcome"/>
+</p>
+
