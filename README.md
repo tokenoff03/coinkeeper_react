@@ -1,3 +1,8 @@
+### Introduction
+- The project is made as a copy of the main coinkeeper 
+- For login use login:ad1lek   password: 123123(Or you can signup).
+- npm install, npm start - for working with react.
+
 ### 🔥 Used:
 
 <div>
@@ -16,4 +21,15 @@
 - Miscellaneous working with functions and using React Hooks
 
 ### 📝 Screenshots
+### Login Page
+Used localStorage.
+<br>
+<p align="center">
+ <img width="600" src="public/assets/login.png" alt="welcome"/>
+</p>
 
+
+### Main Page 
+<p align="center">
+ <img width="600" src="public/assets/main.png" alt="welcome"/>
+</p>
