@@ -1,0 +1,55 @@
+.title{
+    margin-bottom: 12px;
+    font-size: 21px;
+    color: #696868;
+    text-align: left;
+    font-weight: 500;
+}
+
+.history_block{
+    margin-top: 50px;
+    width: 50%;
+    box-sizing: border-box;
+   
+}
+
+.from_title{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.to_title{
+    font-size: 22px;
+}
+
+.money_title{
+    font-size: 18px;
+    color:#0a8d10;
+    font-weight: 500;
+}
+
+.redmoney{
+    font-size: 18px;
+    
+    font-weight: 500;
+    color:#8d0a0a;
+}
+
+.from{
+    display: flex;
+    justify-content: space-between;
+}
+
+.history_inner{
+    padding: 25px;
+    background: linear-gradient(to bottom, rgba(65, 64, 64, 0) 0%, rgb(205, 205, 205) 80%); 
+    width: 500px;
+    height: 100px;
+}
+
+.delete{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    float: right;
+}

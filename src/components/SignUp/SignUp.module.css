@@ -1,0 +1,141 @@
+.container{
+    display: flex;
+    height: 752px;
+}
+
+.sign_left{
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; 
+}
+
+
+.sign_left_block{
+    margin-top: 270px;
+    margin-left: 85px;
+    line-height: 40px;
+}
+
+.left_text1{
+    font-size: 80px;
+    font-weight: bold;
+ 
+}
+
+.left_text2{
+    margin-right: 8px;
+    font-size: 80px;
+    font-weight: bold;
+    margin-left: 90px;
+}
+
+.left_text3{
+    font-weight: 500;
+    padding-left: 10px;
+    color: black;
+    font-size: 20px;
+    flex-wrap: wrap;
+    
+}
+
+.sign_title{
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 50px;
+}
+
+.form{
+    margin: 0 auto;
+    padding-top: 150px;
+}
+
+.sign_block{
+    position: relative;
+    margin-bottom: 25px;
+    
+}
+
+.sign_label{
+    font-size: 20px;
+    position: absolute;
+    left: 15px;
+    
+    top: -15px;
+}
+
+.sign_inp{
+    border-radius: 10px;
+    width: 350px;
+    height: 50px;
+}
+
+.signButton{
+    background-color:rgb(249, 56, 94);
+    border: 0;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.sign_subtext{
+    font-size: 20px;
+    
+}
+
+.sign_subbtn{
+    cursor: pointer;
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f10505;
+}
+
+@media (max-width: 768px){
+    .container{
+        display:block;
+        
+    }
+
+    .sign_left{
+        width: auto;   
+        height: 350px;
+    }
+
+    .sign_left_block{
+        margin-left: 55px;
+        padding-top: 50px;
+        line-height: 40px;
+        margin-top: 0;
+        
+    }
+
+    .left_text1{
+        
+        font-size: 60px;
+     
+    }
+    
+    .left_text2{
+        margin-right: 8px;
+        font-size: 60px;
+        margin-left: 80px;
+    }
+    
+    .left_text3{
+        font-weight: 500;
+        padding-left: 10px;
+        font-size: 25px;
+
+        
+    }
+
+    .form{
+        padding: 50px 25px;
+        
+    }
+
+    
+}
+

@@ -1,0 +1,109 @@
+.formInput {
+    display: flex;
+    text-align: center;
+    gap: 100px;
+    
+}
+
+.formBlock {
+    border: 2px solid #000;
+    display: flex;
+    gap: 3px;
+    background-color: #fff;
+}
+
+.HeaderInput{
+    margin-left: 50px;
+    
+}
+
+.formtext{
+    font-size: 20px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+    text-align: center;
+    padding-left: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.inp_select{
+  
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    border: 0;
+    position: relative;
+    outline: none;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px;
+    background-color: rgb(189, 231, 255);;
+    color: #000000;
+    padding-right: 40px;
+    
+    
+    }
+.inp_select:after{
+        color: #000000;
+      content: "";
+      display: block;
+      width: 25px;
+      height: 25px;
+      position: absolute;
+      right: 5px;
+      top: 5px;
+    }
+  
+    .inp_opt{
+    
+    color: #000;
+    font-size: 18px;
+  }
+   
+input{
+    border: 0;
+}
+
+
+
+.btn {
+    -webkit-touch-callout: none;
+      -webkit-user-select: none;
+       -khtml-user-select: none;
+         -moz-user-select: none;
+          -ms-user-select: none;
+              user-select: none;
+          -webkit-tap-highlight-color: transparent;
+  }
+  
+ .btn {
+      width: 100px;
+      height: 40px;
+      cursor: pointer;
+      font-size: 20px;
+      font-weight: bold;
+      color: black;
+      background: white;
+      border: 1px solid black;
+      box-shadow: 5px 5px 0 black,
+          -5px -5px 0 black,
+          -5px 5px 0 black,
+          5px -5px 0 black;
+      transition: 500ms ease-in-out;
+  }
+  
+.btn:hover {
+      box-shadow: 20px 5px 0 black, -20px -5px 0 black;
+  }
+  
+.btn:focus {
+      outline: none;
+  }
+
+.inp_tt{
+font-size: 18px;
+  }
+
+.inpnumber[type="number"]{
+  font-size: 15px;
+}
