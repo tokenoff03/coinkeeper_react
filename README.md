@@ -37,7 +37,7 @@ Used localStorage.
 ### Edit
 
 <p align="center">
- <img width="600" src="public/assets/changeicon.png" alt="welcome"/>
+ <img width="600" src="public/assets/changeIcon.png" alt="welcome"/>
 </p>
 
 ### How works inputs: 
